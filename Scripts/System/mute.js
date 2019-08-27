@@ -1,0 +1,1 @@
+new ActiveXObject("WScript.Shell").Run('%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\powershell.exe -ExecutionPolicy Bypass -File "C:\\Progam Files\\Elgato\\StreamDeck\\Scripts\\System\\mute.ps1"', 0, false);
