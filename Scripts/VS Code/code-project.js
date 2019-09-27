@@ -1,1 +1,0 @@
-new ActiveXObject("WScript.Shell").Run('"C:\\%USERPROFILE%\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe" "C:\\%USERPROFILE%\\Code\\code-project"', 0, false);
